@@ -1,0 +1,6 @@
+{
+  "name": "OrbitWeather 3D",
+  "description": "Realistic 3D Earth globe with live satellite feeds, universal location search & GPS coordinates, all world meteorological data, place weather situations with photos, and historical climate charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
